@@ -1,2 +1,5 @@
 env/
 followers.txt
+following.txt
+non_followers.txt
+allow_list.txt
